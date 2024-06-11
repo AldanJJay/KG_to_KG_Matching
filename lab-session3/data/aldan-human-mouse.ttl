@@ -1,0 +1,1025 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://human.owl#NCI_C12229> owl:equivalentClass <http://mouse.owl#MA_0002476> .
+
+<http://human.owl#NCI_C12232> owl:equivalentClass <http://mouse.owl#MA_0000395> .
+
+<http://human.owl#NCI_C12233> owl:equivalentClass <http://mouse.owl#MA_0001589> .
+
+<http://human.owl#NCI_C12246> owl:equivalentClass <http://mouse.owl#MA_0001796> .
+
+<http://human.owl#NCI_C12263> owl:equivalentClass <http://mouse.owl#MA_0000338> .
+
+<http://human.owl#NCI_C12265> owl:equivalentClass <http://mouse.owl#MA_0001541> .
+
+<http://human.owl#NCI_C12268> owl:equivalentClass <http://mouse.owl#MA_0001542> .
+
+<http://human.owl#NCI_C12272> owl:equivalentClass <http://mouse.owl#MA_0000124> .
+
+<http://human.owl#NCI_C12275> owl:equivalentClass <http://mouse.owl#MA_0001794> .
+
+<http://human.owl#NCI_C12290> owl:equivalentClass <http://mouse.owl#MA_0001487> .
+
+<http://human.owl#NCI_C12299> owl:equivalentClass <http://mouse.owl#MA_0000796> .
+
+<http://human.owl#NCI_C12308> owl:equivalentClass <http://mouse.owl#MA_0000382> .
+
+<http://human.owl#NCI_C12313> owl:equivalentClass <http://mouse.owl#MA_0000390> .
+
+<http://human.owl#NCI_C12314> owl:equivalentClass <http://mouse.owl#MA_0000391> .
+
+<http://human.owl#NCI_C12323> owl:equivalentClass <http://mouse.owl#MA_0000407> .
+
+<http://human.owl#NCI_C12328> owl:equivalentClass <http://mouse.owl#MA_0000397> .
+
+<http://human.owl#NCI_C12341> owl:equivalentClass <http://mouse.owl#MA_0000265> .
+
+<http://human.owl#NCI_C12342> owl:equivalentClass <http://mouse.owl#MA_0000266> .
+
+<http://human.owl#NCI_C12343> owl:equivalentClass <http://mouse.owl#MA_0000276> .
+
+<http://human.owl#NCI_C12344> owl:equivalentClass <http://mouse.owl#MA_0000263> .
+
+<http://human.owl#NCI_C12347> owl:equivalentClass <http://mouse.owl#MA_0002482> .
+
+<http://human.owl#NCI_C12348> owl:equivalentClass <http://mouse.owl#MA_0001113> .
+
+<http://human.owl#NCI_C12351> owl:equivalentClass <http://mouse.owl#MA_0000133> .
+
+<http://human.owl#NCI_C12368> owl:equivalentClass <http://mouse.owl#MA_0000788> .
+
+<http://human.owl#NCI_C12371> owl:equivalentClass <http://mouse.owl#MA_0000164> .
+
+<http://human.owl#NCI_C12372> owl:equivalentClass <http://mouse.owl#MA_0000064> .
+
+<http://human.owl#NCI_C12373> owl:equivalentClass <http://mouse.owl#MA_0000104> .
+
+<http://human.owl#NCI_C12374> owl:equivalentClass <http://mouse.owl#MA_0000011> .
+
+<http://human.owl#NCI_C12377> owl:equivalentClass <http://mouse.owl#MA_0000356> .
+
+<http://human.owl#NCI_C12378> owl:equivalentClass <http://mouse.owl#MA_0000323> .
+
+<http://human.owl#NCI_C12379> owl:equivalentClass <http://mouse.owl#MA_0000333> .
+
+<http://human.owl#NCI_C12381> owl:equivalentClass <http://mouse.owl#MA_0000334> .
+
+<http://human.owl#NCI_C12382> owl:equivalentClass <http://mouse.owl#MA_0000335> .
+
+<http://human.owl#NCI_C12385> owl:equivalentClass <http://mouse.owl#MA_0001543> .
+
+<http://human.owl#NCI_C12386> owl:equivalentClass <http://mouse.owl#MA_0000337> .
+
+<http://human.owl#NCI_C12387> owl:equivalentClass <http://mouse.owl#MA_0000339> .
+
+<http://human.owl#NCI_C12388> owl:equivalentClass <http://mouse.owl#MA_0000340> .
+
+<http://human.owl#NCI_C12389> owl:equivalentClass <http://mouse.owl#MA_0000352> .
+
+<http://human.owl#NCI_C12390> owl:equivalentClass <http://mouse.owl#MA_0000211>,
+        <http://mouse.owl#MA_0000336> .
+
+<http://human.owl#NCI_C12391> owl:equivalentClass <http://mouse.owl#MA_0000353> .
+
+<http://human.owl#NCI_C12392> owl:equivalentClass <http://mouse.owl#MA_0000358> .
+
+<http://human.owl#NCI_C12393> owl:equivalentClass <http://mouse.owl#MA_0000120> .
+
+<http://human.owl#NCI_C12395> owl:equivalentClass <http://mouse.owl#MA_0000240> .
+
+<http://human.owl#NCI_C12399> owl:equivalentClass <http://mouse.owl#MA_0000176> .
+
+<http://human.owl#NCI_C12402> owl:equivalentClass <http://mouse.owl#MA_0000381>,
+        <http://mouse.owl#MA_0000396> .
+
+<http://human.owl#NCI_C12404> owl:equivalentClass <http://mouse.owl#MA_0000384> .
+
+<http://human.owl#NCI_C12405> owl:equivalentClass <http://mouse.owl#MA_0000389> .
+
+<http://human.owl#NCI_C12407> owl:equivalentClass <http://mouse.owl#MA_0000394> .
+
+<http://human.owl#NCI_C12408> owl:equivalentClass <http://mouse.owl#MA_0000395> .
+
+<http://human.owl#NCI_C12409> owl:equivalentClass <http://mouse.owl#MA_0000408> .
+
+<http://human.owl#NCI_C12412> owl:equivalentClass <http://mouse.owl#MA_0000411> .
+
+<http://human.owl#NCI_C12415> owl:equivalentClass <http://mouse.owl#MA_0000368> .
+
+<http://human.owl#NCI_C12416> owl:equivalentClass <http://mouse.owl#MA_0000378> .
+
+<http://human.owl#NCI_C12417> owl:equivalentClass <http://mouse.owl#MA_0000379> .
+
+<http://human.owl#NCI_C12420> owl:equivalentClass <http://mouse.owl#MA_0000414> .
+
+<http://human.owl#NCI_C12422> owl:equivalentClass <http://mouse.owl#MA_0000347> .
+
+<http://human.owl#NCI_C12423> owl:equivalentClass <http://mouse.owl#MA_0000443> .
+
+<http://human.owl#NCI_C12425> owl:equivalentClass <http://mouse.owl#MA_0000432> .
+
+<http://human.owl#NCI_C12428> owl:equivalentClass <http://mouse.owl#MA_0000441> .
+
+<http://human.owl#NCI_C12432> owl:equivalentClass <http://mouse.owl#MA_0000141> .
+
+<http://human.owl#NCI_C12434> owl:equivalentClass <http://mouse.owl#MA_0000059> .
+
+<http://human.owl#NCI_C12439> owl:equivalentClass <http://mouse.owl#MA_0000168> .
+
+<http://human.owl#NCI_C12440> owl:equivalentClass <http://mouse.owl#MA_0000887> .
+
+<http://human.owl#NCI_C12442> owl:equivalentClass <http://mouse.owl#MA_0000206> .
+
+<http://human.owl#NCI_C12444> owl:equivalentClass <http://mouse.owl#MA_0000191> .
+
+<http://human.owl#NCI_C12445> owl:equivalentClass <http://mouse.owl#MA_0000198> .
+
+<http://human.owl#NCI_C12446> owl:equivalentClass <http://mouse.owl#MA_0000188> .
+
+<http://human.owl#NCI_C12449> owl:equivalentClass <http://mouse.owl#MA_0000890> .
+
+<http://human.owl#NCI_C12451> owl:equivalentClass <http://mouse.owl#MA_0000894> .
+
+<http://human.owl#NCI_C12452> owl:equivalentClass <http://mouse.owl#MA_0000895> .
+
+<http://human.owl#NCI_C12453> owl:equivalentClass <http://mouse.owl#MA_0000210> .
+
+<http://human.owl#NCI_C12454> owl:equivalentClass <http://mouse.owl#MA_0000877> .
+
+<http://human.owl#NCI_C12456> owl:equivalentClass <http://mouse.owl#MA_0000171>,
+        <http://mouse.owl#MA_0000183>,
+        <http://mouse.owl#MA_0000197> .
+
+<http://human.owl#NCI_C12457> owl:equivalentClass <http://mouse.owl#MA_0000172>,
+        <http://mouse.owl#MA_0000179> .
+
+<http://human.owl#NCI_C12458> owl:equivalentClass <http://mouse.owl#MA_0000173>,
+        <http://mouse.owl#MA_0000179> .
+
+<http://human.owl#NCI_C12459> owl:equivalentClass <http://mouse.owl#MA_0000179> .
+
+<http://human.owl#NCI_C12461> owl:equivalentClass <http://mouse.owl#MA_0002567> .
+
+<http://human.owl#NCI_C12465> owl:equivalentClass <http://mouse.owl#MA_0000218> .
+
+<http://human.owl#NCI_C12466> owl:equivalentClass <http://mouse.owl#MA_0000217> .
+
+<http://human.owl#NCI_C12467> owl:equivalentClass <http://mouse.owl#MA_0000226> .
+
+<http://human.owl#NCI_C12502> owl:equivalentClass <http://mouse.owl#MA_0000257> .
+
+<http://human.owl#NCI_C12506> owl:equivalentClass <http://mouse.owl#MA_0000348> .
+
+<http://human.owl#NCI_C12510> owl:equivalentClass <http://mouse.owl#MA_0000171>,
+        <http://mouse.owl#MA_0000183>,
+        <http://mouse.owl#MA_0000197>,
+        <http://mouse.owl#MA_0000205> .
+
+<http://human.owl#NCI_C12641> owl:equivalentClass <http://mouse.owl#MA_0001124> .
+
+<http://human.owl#NCI_C12669> owl:equivalentClass <http://mouse.owl#MA_0000062> .
+
+<http://human.owl#NCI_C12672> owl:equivalentClass <http://mouse.owl#MA_0000063> .
+
+<http://human.owl#NCI_C12681> owl:equivalentClass <http://mouse.owl#MA_0001921> .
+
+<http://human.owl#NCI_C12682> owl:equivalentClass <http://mouse.owl#MA_0001180> .
+
+<http://human.owl#NCI_C12683> owl:equivalentClass <http://mouse.owl#MA_0000436> .
+
+<http://human.owl#NCI_C12684> owl:equivalentClass <http://mouse.owl#MA_0000422> .
+
+<http://human.owl#NCI_C12685> owl:equivalentClass <http://mouse.owl#MA_0000065> .
+
+<http://human.owl#NCI_C12686> owl:equivalentClass <http://mouse.owl#MA_0000010> .
+
+<http://human.owl#NCI_C12691> owl:equivalentClass <http://mouse.owl#MA_0002562> .
+
+<http://human.owl#NCI_C12692> owl:equivalentClass <http://mouse.owl#MA_0002503> .
+
+<http://human.owl#NCI_C12693> owl:equivalentClass <http://mouse.owl#MA_0000311> .
+
+<http://human.owl#NCI_C12695> owl:equivalentClass <http://mouse.owl#MA_0001329> .
+
+<http://human.owl#NCI_C12701> owl:equivalentClass <http://mouse.owl#MA_0000152> .
+
+<http://human.owl#NCI_C12702> owl:equivalentClass <http://mouse.owl#MA_0001904> .
+
+<http://human.owl#NCI_C12704> owl:equivalentClass <http://mouse.owl#MA_0002563> .
+
+<http://human.owl#NCI_C12705> owl:equivalentClass <http://mouse.owl#MA_0000012> .
+
+<http://human.owl#NCI_C12707> owl:equivalentClass <http://mouse.owl#MA_0001242> .
+
+<http://human.owl#NCI_C12708> owl:equivalentClass <http://mouse.owl#MA_0000152>,
+        <http://mouse.owl#MA_0000153> .
+
+<http://human.owl#NCI_C12713> owl:equivalentClass <http://mouse.owl#MA_0000268> .
+
+<http://human.owl#NCI_C12717> owl:equivalentClass <http://mouse.owl#MA_0001359> .
+
+<http://human.owl#NCI_C12718> owl:equivalentClass <http://mouse.owl#MA_0001360> .
+
+<http://human.owl#NCI_C12719> owl:equivalentClass <http://mouse.owl#MA_0002406> .
+
+<http://human.owl#NCI_C12720> owl:equivalentClass <http://mouse.owl#MA_0000220> .
+
+<http://human.owl#NCI_C12723> owl:equivalentClass <http://mouse.owl#MA_0001093> .
+
+<http://human.owl#NCI_C12725> owl:equivalentClass <http://mouse.owl#MA_0002420> .
+
+<http://human.owl#NCI_C12727> owl:equivalentClass <http://mouse.owl#MA_0000072> .
+
+<http://human.owl#NCI_C12731> owl:equivalentClass <http://mouse.owl#MA_0001356> .
+
+<http://human.owl#NCI_C12736> owl:equivalentClass <http://mouse.owl#MA_0000328> .
+
+<http://human.owl#NCI_C12744> owl:equivalentClass <http://mouse.owl#MA_0000312> .
+
+<http://human.owl#NCI_C12751> owl:equivalentClass <http://mouse.owl#MA_0000302> .
+
+<http://human.owl#NCI_C12752> owl:equivalentClass <http://mouse.owl#MA_0000303> .
+
+<http://human.owl#NCI_C12754> owl:equivalentClass <http://mouse.owl#MA_0002418> .
+
+<http://human.owl#NCI_C12762> owl:equivalentClass <http://mouse.owl#MA_0000351>,
+        <http://mouse.owl#MA_0000432> .
+
+<http://human.owl#NCI_C12763> owl:equivalentClass <http://mouse.owl#MA_0000431> .
+
+<http://human.owl#NCI_C12764> owl:equivalentClass <http://mouse.owl#MA_0000223> .
+
+<http://human.owl#NCI_C12765> owl:equivalentClass <http://mouse.owl#MA_0000128> .
+
+<http://human.owl#NCI_C12767> owl:equivalentClass <http://mouse.owl#MA_0000030> .
+
+<http://human.owl#NCI_C12768> owl:equivalentClass <http://mouse.owl#MA_0000228> .
+
+<http://human.owl#NCI_C12769> owl:equivalentClass <http://mouse.owl#MA_0000054> .
+
+<http://human.owl#NCI_C12774> owl:equivalentClass <http://mouse.owl#MA_0002031> .
+
+<http://human.owl#NCI_C12775> owl:equivalentClass <http://mouse.owl#MA_0000089> .
+
+<http://human.owl#NCI_C12779> owl:equivalentClass <http://mouse.owl#MA_0000327> .
+
+<http://human.owl#NCI_C12783> owl:equivalentClass <http://mouse.owl#MA_0001330> .
+
+<http://human.owl#NCI_C12784> owl:equivalentClass <http://mouse.owl#MA_0000280> .
+
+<http://human.owl#NCI_C12785> owl:equivalentClass <http://mouse.owl#MA_0000409> .
+
+<http://human.owl#NCI_C12787> owl:equivalentClass <http://mouse.owl#MA_0000410> .
+
+<http://human.owl#NCI_C12788> owl:equivalentClass <http://mouse.owl#MA_0000018> .
+
+<http://human.owl#NCI_C12793> owl:equivalentClass <http://mouse.owl#MA_0001331> .
+
+<http://human.owl#NCI_C12794> owl:equivalentClass <http://mouse.owl#MA_0002221> .
+
+<http://human.owl#NCI_C12795> owl:equivalentClass <http://mouse.owl#MA_0000225> .
+
+<http://human.owl#NCI_C12798> owl:equivalentClass <http://mouse.owl#MA_0000314> .
+
+<http://human.owl#NCI_C12799> owl:equivalentClass <http://mouse.owl#MA_0000022> .
+
+<http://human.owl#NCI_C12800> owl:equivalentClass <http://mouse.owl#MA_0001361> .
+
+<http://human.owl#NCI_C12802> owl:equivalentClass <http://mouse.owl#MA_0000143> .
+
+<http://human.owl#NCI_C12805> owl:equivalentClass <http://mouse.owl#MA_0000090> .
+
+<http://human.owl#NCI_C12818> owl:equivalentClass <http://mouse.owl#MA_0000071> .
+
+<http://human.owl#NCI_C12819> owl:equivalentClass <http://mouse.owl#MA_0002077> .
+
+<http://human.owl#NCI_C12831> owl:equivalentClass <http://mouse.owl#MA_0002022> .
+
+<http://human.owl#NCI_C12834> owl:equivalentClass <http://mouse.owl#MA_0000192> .
+
+<http://human.owl#NCI_C12835> owl:equivalentClass <http://mouse.owl#MA_0001050> .
+
+<http://human.owl#NCI_C12841> owl:equivalentClass <http://mouse.owl#MA_0000326> .
+
+<http://human.owl#NCI_C12843> owl:equivalentClass <http://mouse.owl#MA_0002453> .
+
+<http://human.owl#NCI_C12853> owl:equivalentClass <http://mouse.owl#MA_0000313> .
+
+<http://human.owl#NCI_C12889> owl:equivalentClass <http://mouse.owl#MA_0002443> .
+
+<http://human.owl#NCI_C12901> owl:equivalentClass <http://mouse.owl#MA_0001265> .
+
+<http://human.owl#NCI_C12905> owl:equivalentClass <http://mouse.owl#MA_0000032> .
+
+<http://human.owl#NCI_C12909> owl:equivalentClass <http://mouse.owl#MA_0002434> .
+
+<http://human.owl#NCI_C12928> owl:equivalentClass <http://mouse.owl#MA_0001243> .
+
+<http://human.owl#NCI_C12933> owl:equivalentClass <http://mouse.owl#MA_0000309> .
+
+<http://human.owl#NCI_C12957> owl:equivalentClass <http://mouse.owl#MA_0002411> .
+
+<http://human.owl#NCI_C12986> owl:equivalentClass <http://mouse.owl#MA_0000420> .
+
+<http://human.owl#NCI_C12989> owl:equivalentClass <http://mouse.owl#MA_0000280> .
+
+<http://human.owl#NCI_C12998> owl:equivalentClass <http://mouse.owl#MA_0002416> .
+
+<http://human.owl#NCI_C13005> owl:equivalentClass <http://mouse.owl#MA_0000099> .
+
+<http://human.owl#NCI_C13044> owl:equivalentClass <http://mouse.owl#MA_0000319> .
+
+<http://human.owl#NCI_C13045> owl:equivalentClass <http://mouse.owl#MA_0000115> .
+
+<http://human.owl#NCI_C13046> owl:equivalentClass <http://mouse.owl#MA_0000113> .
+
+<http://human.owl#NCI_C13047> owl:equivalentClass <http://mouse.owl#MA_0000412> .
+
+<http://human.owl#NCI_C13048> owl:equivalentClass <http://mouse.owl#MA_0000375> .
+
+<http://human.owl#NCI_C13049> owl:equivalentClass <http://mouse.owl#MA_0002436> .
+
+<http://human.owl#NCI_C13056> owl:equivalentClass <http://mouse.owl#MA_0000015> .
+
+<http://human.owl#NCI_C13060> owl:equivalentClass <http://mouse.owl#MA_0002566> .
+
+<http://human.owl#NCI_C13070> owl:equivalentClass <http://mouse.owl#MA_0002475> .
+
+<http://human.owl#NCI_C13072> owl:equivalentClass <http://www.geneontology.org/formats/oboInOwl#Definition> .
+
+<http://human.owl#NCI_C13082> owl:equivalentClass <http://mouse.owl#MA_0002748> .
+
+<http://human.owl#NCI_C13164> owl:equivalentClass <http://mouse.owl#MA_0000099> .
+
+<http://human.owl#NCI_C13179> owl:equivalentClass <http://mouse.owl#MA_0001190> .
+
+<http://human.owl#NCI_C13234> owl:equivalentClass <http://mouse.owl#MA_0002509> .
+
+<http://human.owl#NCI_C13250> owl:equivalentClass <http://mouse.owl#MA_0001657> .
+
+<http://human.owl#NCI_C13252> owl:equivalentClass <http://mouse.owl#MA_0002520> .
+
+<http://human.owl#NCI_C13273> owl:equivalentClass <http://mouse.owl#MA_0002534> .
+
+<http://human.owl#NCI_C13275> owl:equivalentClass <http://mouse.owl#MA_0002507> .
+
+<http://human.owl#NCI_C13276> owl:equivalentClass <http://mouse.owl#MA_0002538> .
+
+<http://human.owl#NCI_C13277> owl:equivalentClass <http://mouse.owl#MA_0002522> .
+
+<http://human.owl#NCI_C13278> owl:equivalentClass <http://mouse.owl#MA_0002536> .
+
+<http://human.owl#NCI_C13280> owl:equivalentClass <http://mouse.owl#MA_0002539> .
+
+<http://human.owl#NCI_C13283> owl:equivalentClass <http://mouse.owl#MA_0002545> .
+
+<http://human.owl#NCI_C13325> owl:equivalentClass <http://mouse.owl#MA_0002502> .
+
+<http://human.owl#NCI_C13356> owl:equivalentClass <http://mouse.owl#MA_0002501> .
+
+<http://human.owl#NCI_C25203> owl:equivalentClass <http://mouse.owl#MA_0000038> .
+
+<http://human.owl#NCI_C25389> owl:equivalentClass <http://mouse.owl#MA_0000031> .
+
+<http://human.owl#NCI_C26464> owl:equivalentClass <http://mouse.owl#MA_0001306> .
+
+<http://human.owl#NCI_C26470> owl:equivalentClass <http://mouse.owl#MA_0001491> .
+
+<http://human.owl#NCI_C32038> owl:equivalentClass <http://mouse.owl#MA_0000474> .
+
+<http://human.owl#NCI_C32042> owl:equivalentClass <http://mouse.owl#MA_0001335> .
+
+<http://human.owl#NCI_C32086> owl:equivalentClass <http://mouse.owl#MA_0002722> .
+
+<http://human.owl#NCI_C32144> owl:equivalentClass <http://mouse.owl#MA_0000487> .
+
+<http://human.owl#NCI_C32148> owl:equivalentClass <http://mouse.owl#MA_0001759> .
+
+<http://human.owl#NCI_C32150> owl:equivalentClass <http://mouse.owl#MA_0002570> .
+
+<http://human.owl#NCI_C32160> owl:equivalentClass <http://mouse.owl#MA_0000095>,
+        <http://mouse.owl#MA_0002576> .
+
+<http://human.owl#NCI_C32161> owl:equivalentClass <http://mouse.owl#MA_0000095> .
+
+<http://human.owl#NCI_C32165> owl:equivalentClass <http://mouse.owl#MA_0000247>,
+        <http://mouse.owl#MA_0000259> .
+
+<http://human.owl#NCI_C32169> owl:equivalentClass <http://mouse.owl#MA_0002573> .
+
+<http://human.owl#NCI_C32202> owl:equivalentClass <http://mouse.owl#MA_0002495> .
+
+<http://human.owl#NCI_C32228> owl:equivalentClass <http://mouse.owl#MA_0000858> .
+
+<http://human.owl#NCI_C32230> owl:equivalentClass <http://mouse.owl#MA_0001923> .
+
+<http://human.owl#NCI_C32234> owl:equivalentClass <http://mouse.owl#MA_0000135> .
+
+<http://human.owl#NCI_C32250> owl:equivalentClass <http://mouse.owl#MA_0001348> .
+
+<http://human.owl#NCI_C32276> owl:equivalentClass <http://mouse.owl#MA_0000212>,
+        <http://mouse.owl#MA_0002541> .
+
+<http://human.owl#NCI_C32287> owl:equivalentClass <http://mouse.owl#MA_0000208> .
+
+<http://human.owl#NCI_C32293> owl:equivalentClass <http://mouse.owl#MA_0002506> .
+
+<http://human.owl#NCI_C32314> owl:equivalentClass <http://mouse.owl#MA_0001238> .
+
+<http://human.owl#NCI_C32318> owl:equivalentClass <http://mouse.owl#MA_0001336> .
+
+<http://human.owl#NCI_C32322> owl:equivalentClass <http://mouse.owl#MA_0001594> .
+
+<http://human.owl#NCI_C32329> owl:equivalentClass <http://mouse.owl#MA_0000888> .
+
+<http://human.owl#NCI_C32334> owl:equivalentClass <http://mouse.owl#MA_0001420> .
+
+<http://human.owl#NCI_C32348> owl:equivalentClass <http://mouse.owl#MA_0002551> .
+
+<http://human.owl#NCI_C32373> owl:equivalentClass <http://mouse.owl#MA_0001885> .
+
+<http://human.owl#NCI_C32391> owl:equivalentClass <http://mouse.owl#MA_0000106> .
+
+<http://human.owl#NCI_C32392> owl:equivalentClass <http://mouse.owl#MA_0001509> .
+
+<http://human.owl#NCI_C32394> owl:equivalentClass <http://mouse.owl#MA_0001510> .
+
+<http://human.owl#NCI_C32400> owl:equivalentClass <http://mouse.owl#MA_0001762> .
+
+<http://human.owl#NCI_C32425> owl:equivalentClass <http://mouse.owl#MA_0001722> .
+
+<http://human.owl#NCI_C32446> owl:equivalentClass <http://mouse.owl#MA_0002286> .
+
+<http://human.owl#NCI_C32453> owl:equivalentClass <http://mouse.owl#MA_0002542> .
+
+<http://human.owl#NCI_C32455> owl:equivalentClass <http://mouse.owl#MA_0002571> .
+
+<http://human.owl#NCI_C32494> owl:equivalentClass <http://mouse.owl#MA_0000107> .
+
+<http://human.owl#NCI_C32505> owl:equivalentClass <http://mouse.owl#MA_0002543> .
+
+<http://human.owl#NCI_C32509> owl:equivalentClass <http://mouse.owl#MA_0001582> .
+
+<http://human.owl#NCI_C32513> owl:equivalentClass <http://mouse.owl#MA_0002528> .
+
+<http://human.owl#NCI_C32526> owl:equivalentClass <http://mouse.owl#MA_0001763> .
+
+<http://human.owl#NCI_C32546> owl:equivalentClass <http://mouse.owl#MA_0002415> .
+
+<http://human.owl#NCI_C32576> owl:equivalentClass <http://mouse.owl#MA_0002702> .
+
+<http://human.owl#NCI_C32582> owl:equivalentClass <http://mouse.owl#MA_0001622> .
+
+<http://human.owl#NCI_C32599> owl:equivalentClass <http://mouse.owl#MA_0000108> .
+
+<http://human.owl#NCI_C32604> owl:equivalentClass <http://mouse.owl#MA_0002678> .
+
+<http://human.owl#NCI_C32619> owl:equivalentClass <http://mouse.owl#MA_0002679> .
+
+<http://human.owl#NCI_C32644> owl:equivalentClass <http://mouse.owl#MA_0001595> .
+
+<http://human.owl#NCI_C32677> owl:equivalentClass <http://mouse.owl#MA_0000342> .
+
+<http://human.owl#NCI_C32684> owl:equivalentClass <http://mouse.owl#MA_0002587> .
+
+<http://human.owl#NCI_C32741> owl:equivalentClass <http://mouse.owl#MA_0000171>,
+        <http://mouse.owl#MA_0000183>,
+        <http://mouse.owl#MA_0000197> .
+
+<http://human.owl#NCI_C32746> owl:equivalentClass <http://mouse.owl#MA_0000109> .
+
+<http://human.owl#NCI_C32762> owl:equivalentClass <http://mouse.owl#MA_0002318> .
+
+<http://human.owl#NCI_C32765> owl:equivalentClass <http://mouse.owl#MA_0001336> .
+
+<http://human.owl#NCI_C32769> owl:equivalentClass <http://mouse.owl#MA_0000349> .
+
+<http://human.owl#NCI_C32770> owl:equivalentClass <http://mouse.owl#MA_0001215> .
+
+<http://human.owl#NCI_C32780> owl:equivalentClass <http://mouse.owl#MA_0002004> .
+
+<http://human.owl#NCI_C32786> owl:equivalentClass <http://mouse.owl#MA_0002014>,
+        <http://mouse.owl#MA_0002015> .
+
+<http://human.owl#NCI_C32797> owl:equivalentClass <http://mouse.owl#MA_0002323> .
+
+<http://human.owl#NCI_C32821> owl:equivalentClass <http://mouse.owl#MA_0001981> .
+
+<http://human.owl#NCI_C32826> owl:equivalentClass <http://mouse.owl#MA_0002584> .
+
+<http://human.owl#NCI_C32884> owl:equivalentClass <http://mouse.owl#MA_0001337> .
+
+<http://human.owl#NCI_C32905> owl:equivalentClass <http://mouse.owl#MA_0000274> .
+
+<http://human.owl#NCI_C32907> owl:equivalentClass <http://mouse.owl#MA_0001294> .
+
+<http://human.owl#NCI_C32910> owl:equivalentClass <http://mouse.owl#MA_0000791> .
+
+<http://human.owl#NCI_C32978> owl:equivalentClass <http://mouse.owl#MA_0000896> .
+
+<http://human.owl#NCI_C33038> owl:equivalentClass <http://mouse.owl#MA_0000138> .
+
+<http://human.owl#NCI_C33051> owl:equivalentClass <http://mouse.owl#MA_0001216> .
+
+<http://human.owl#NCI_C33069> owl:equivalentClass <http://mouse.owl#MA_0001048> .
+
+<http://human.owl#NCI_C33075> owl:equivalentClass <http://mouse.owl#MA_0001249> .
+
+<http://human.owl#NCI_C33083> owl:equivalentClass <http://mouse.owl#MA_0001200> .
+
+<http://human.owl#NCI_C33090> owl:equivalentClass <http://mouse.owl#MA_0000242> .
+
+<http://human.owl#NCI_C33091> owl:equivalentClass <http://mouse.owl#MA_0002647> .
+
+<http://human.owl#NCI_C33101> owl:equivalentClass <http://mouse.owl#MA_0002617> .
+
+<http://human.owl#NCI_C33105> owl:equivalentClass <http://mouse.owl#MA_0000565> .
+
+<http://human.owl#NCI_C33106> owl:equivalentClass <http://mouse.owl#MA_0000453> .
+
+<http://human.owl#NCI_C33135> owl:equivalentClass <http://mouse.owl#MA_0001182> .
+
+<http://human.owl#NCI_C33161> owl:equivalentClass <http://mouse.owl#MA_0001299> .
+
+<http://human.owl#NCI_C33190> owl:equivalentClass <http://mouse.owl#MA_0002008> .
+
+<http://human.owl#NCI_C33194> owl:equivalentClass <http://mouse.owl#MA_0002009> .
+
+<http://human.owl#NCI_C33199> owl:equivalentClass <http://mouse.owl#MA_0002432> .
+
+<http://human.owl#NCI_C33207> owl:equivalentClass <http://mouse.owl#MA_0000975> .
+
+<http://human.owl#NCI_C33209> owl:equivalentClass <http://mouse.owl#MA_0002541> .
+
+<http://human.owl#NCI_C33231> owl:equivalentClass <http://mouse.owl#MA_0002527> .
+
+<http://human.owl#NCI_C33250> owl:equivalentClass <http://mouse.owl#MA_0000775> .
+
+<http://human.owl#NCI_C33265> owl:equivalentClass <http://mouse.owl#MA_0002676> .
+
+<http://human.owl#NCI_C33273> owl:equivalentClass <http://mouse.owl#MA_0002488> .
+
+<http://human.owl#NCI_C33282> owl:equivalentClass <http://mouse.owl#MA_0001374> .
+
+<http://human.owl#NCI_C33284> owl:equivalentClass <http://mouse.owl#MA_0002354> .
+
+<http://human.owl#NCI_C33285> owl:equivalentClass <http://mouse.owl#MA_0002355> .
+
+<http://human.owl#NCI_C33286> owl:equivalentClass <http://mouse.owl#MA_0002423> .
+
+<http://human.owl#NCI_C33297> owl:equivalentClass <http://mouse.owl#MA_0002529> .
+
+<http://human.owl#NCI_C33300> owl:equivalentClass <http://mouse.owl#MA_0000538> .
+
+<http://human.owl#NCI_C33301> owl:equivalentClass <http://mouse.owl#MA_0002466> .
+
+<http://human.owl#NCI_C33314> owl:equivalentClass <http://mouse.owl#MA_0002018> .
+
+<http://human.owl#NCI_C33317> owl:equivalentClass <http://mouse.owl#MA_0000304> .
+
+<http://human.owl#NCI_C33337> owl:equivalentClass <http://mouse.owl#MA_0002021> .
+
+<http://human.owl#NCI_C33356> owl:equivalentClass <http://mouse.owl#MA_0002743> .
+
+<http://human.owl#NCI_C33357> owl:equivalentClass <http://mouse.owl#MA_0002023> .
+
+<http://human.owl#NCI_C33378> owl:equivalentClass <http://mouse.owl#MA_0001209> .
+
+<http://human.owl#NCI_C33429> owl:equivalentClass <http://mouse.owl#MA_0001292> .
+
+<http://human.owl#NCI_C33440> owl:equivalentClass <http://mouse.owl#MA_0002362> .
+
+<http://human.owl#NCI_C33449> owl:equivalentClass <http://mouse.owl#MA_0002364> .
+
+<http://human.owl#NCI_C33456> owl:equivalentClass <http://mouse.owl#MA_0000376> .
+
+<http://human.owl#NCI_C33465> owl:equivalentClass <http://mouse.owl#MA_0000423> .
+
+<http://human.owl#NCI_C33503> owl:equivalentClass <http://mouse.owl#MA_0000246> .
+
+<http://human.owl#NCI_C33507> owl:equivalentClass <http://mouse.owl#MA_0001506> .
+
+<http://human.owl#NCI_C33519> owl:equivalentClass <http://mouse.owl#MA_0002565> .
+
+<http://human.owl#NCI_C33526> owl:equivalentClass <http://mouse.owl#MA_0000439> .
+
+<http://human.owl#NCI_C33527> owl:equivalentClass <http://mouse.owl#MA_0000249> .
+
+<http://human.owl#NCI_C33528> owl:equivalentClass <http://mouse.owl#MA_0000251> .
+
+<http://human.owl#NCI_C33555> owl:equivalentClass <http://mouse.owl#MA_0000097> .
+
+<http://human.owl#NCI_C33556> owl:equivalentClass <http://mouse.owl#MA_0001215> .
+
+<http://human.owl#NCI_C33581> owl:equivalentClass <http://mouse.owl#MA_0002040> .
+
+<http://human.owl#NCI_C33591> owl:equivalentClass <http://mouse.owl#MA_0001054> .
+
+<http://human.owl#NCI_C33612> owl:equivalentClass <http://mouse.owl#MA_0001217> .
+
+<http://human.owl#NCI_C33615> owl:equivalentClass <http://mouse.owl#MA_0001507> .
+
+<http://human.owl#NCI_C33617> owl:equivalentClass <http://mouse.owl#MA_0001512> .
+
+<http://human.owl#NCI_C33643> owl:equivalentClass <http://mouse.owl#MA_0002045> .
+
+<http://human.owl#NCI_C33648> owl:equivalentClass <http://mouse.owl#MA_0000960> .
+
+<http://human.owl#NCI_C33649> owl:equivalentClass <http://mouse.owl#MA_0002698> .
+
+<http://human.owl#NCI_C33650> owl:equivalentClass <http://mouse.owl#MA_0002050> .
+
+<http://human.owl#NCI_C33651> owl:equivalentClass <http://mouse.owl#MA_0002388> .
+
+<http://human.owl#NCI_C33669> owl:equivalentClass <http://mouse.owl#MA_0001934> .
+
+<http://human.owl#NCI_C33680> owl:equivalentClass <http://mouse.owl#MA_0002226> .
+
+<http://human.owl#NCI_C33685> owl:equivalentClass <http://mouse.owl#MA_0002005> .
+
+<http://human.owl#NCI_C33707> owl:equivalentClass <http://mouse.owl#MA_0002228> .
+
+<http://human.owl#NCI_C33708> owl:equivalentClass <http://mouse.owl#MA_0001914> .
+
+<http://human.owl#NCI_C33709> owl:equivalentClass <http://mouse.owl#MA_0002389> .
+
+<http://human.owl#NCI_C33739> owl:equivalentClass <http://mouse.owl#MA_0000236> .
+
+<http://human.owl#NCI_C33740> owl:equivalentClass <http://mouse.owl#MA_0001199> .
+
+<http://human.owl#NCI_C33741> owl:equivalentClass <http://mouse.owl#MA_0002061> .
+
+<http://human.owl#NCI_C33754> owl:equivalentClass <http://mouse.owl#MA_0000424> .
+
+<http://human.owl#NCI_C33755> owl:equivalentClass <http://mouse.owl#MA_0001774> .
+
+<http://human.owl#NCI_C33763> owl:equivalentClass owl:Thing .
+
+<http://human.owl#NCI_C33780> owl:equivalentClass <http://mouse.owl#MA_0001764> .
+
+<http://human.owl#NCI_C33797> owl:equivalentClass <http://mouse.owl#MA_0001862> .
+
+<http://human.owl#NCI_C33816> owl:equivalentClass <http://mouse.owl#MA_0000004> .
+
+<http://human.owl#NCI_C33831> owl:equivalentClass <http://mouse.owl#MA_0001215> .
+
+<http://human.owl#NCI_C33844> owl:equivalentClass <http://mouse.owl#MA_0000247> .
+
+<http://human.owl#NCI_C33854> owl:equivalentClass <http://mouse.owl#MA_0002718> .
+
+<http://human.owl#NCI_C33866> owl:equivalentClass <http://mouse.owl#MA_0000152> .
+
+<http://human.owl#NCI_C33871> owl:equivalentClass <http://mouse.owl#MA_0000245> .
+
+<http://human.owl#NCI_C33881> owl:equivalentClass <http://mouse.owl#MA_0002489> .
+
+<http://human.owl#NCI_C33885> owl:equivalentClass <http://mouse.owl#MA_0002461> .
+
+<http://human.owl#NCI_C38662> owl:equivalentClass <http://mouse.owl#MA_0000053> .
+
+<http://human.owl#NCI_C41266> owl:equivalentClass <http://mouse.owl#MA_0000439> .
+
+<http://human.owl#NCI_C42079> owl:equivalentClass <http://mouse.owl#MA_0000824> .
+
+<http://human.owl#NCI_C43612> owl:equivalentClass <http://mouse.owl#MA_0000324> .
+
+<http://human.owl#NCI_C48942> owl:equivalentClass <http://mouse.owl#MA_0001772> .
+
+<http://human.owl#NCI_C48943> owl:equivalentClass <http://mouse.owl#MA_0001773> .
+
+<http://human.owl#NCI_C49190> owl:equivalentClass <http://mouse.owl#MA_0000701> .
+
+<http://human.owl#NCI_C49192> owl:equivalentClass <http://mouse.owl#MA_0000705> .
+
+<http://human.owl#NCI_C49194> owl:equivalentClass <http://mouse.owl#MA_0000707> .
+
+<http://human.owl#NCI_C49208> owl:equivalentClass <http://mouse.owl#MA_0001832> .
+
+<http://human.owl#NCI_C49209> owl:equivalentClass <http://mouse.owl#MA_0001835> .
+
+<http://human.owl#NCI_C49210> owl:equivalentClass <http://mouse.owl#MA_0001831> .
+
+<http://human.owl#NCI_C49214> owl:equivalentClass <http://mouse.owl#MA_0001837> .
+
+<http://human.owl#NCI_C49215> owl:equivalentClass <http://mouse.owl#MA_0000711> .
+
+<http://human.owl#NCI_C49216> owl:equivalentClass <http://mouse.owl#MA_0000199> .
+
+<http://human.owl#NCI_C49218> owl:equivalentClass <http://mouse.owl#MA_0001724> .
+
+<http://human.owl#NCI_C49219> owl:equivalentClass <http://mouse.owl#MA_0001725> .
+
+<http://human.owl#NCI_C49226> owl:equivalentClass <http://mouse.owl#MA_0001252> .
+
+<http://human.owl#NCI_C49227> owl:equivalentClass <http://mouse.owl#MA_0001632> .
+
+<http://human.owl#NCI_C49232> owl:equivalentClass <http://mouse.owl#MA_0000986> .
+
+<http://human.owl#NCI_C49239> owl:equivalentClass <http://mouse.owl#MA_0001576> .
+
+<http://human.owl#NCI_C49249> owl:equivalentClass <http://mouse.owl#MA_0000964> .
+
+<http://human.owl#NCI_C49258> owl:equivalentClass <http://mouse.owl#MA_0000750> .
+
+<http://human.owl#NCI_C49262> owl:equivalentClass <http://mouse.owl#MA_0001326> .
+
+<http://human.owl#NCI_C49263> owl:equivalentClass <http://mouse.owl#MA_0001865>,
+        <http://mouse.owl#MA_0002725> .
+
+<http://human.owl#NCI_C49264> owl:equivalentClass <http://mouse.owl#MA_0001605>,
+        <http://mouse.owl#MA_0002725> .
+
+<http://human.owl#NCI_C49268> owl:equivalentClass <http://mouse.owl#MA_0002417> .
+
+<http://human.owl#NCI_C49270> owl:equivalentClass <http://mouse.owl#MA_0001753> .
+
+<http://human.owl#NCI_C49295> owl:equivalentClass <http://mouse.owl#MA_0001745> .
+
+<http://human.owl#NCI_C49300> owl:equivalentClass <http://mouse.owl#MA_0001592> .
+
+<http://human.owl#NCI_C49302> owl:equivalentClass <http://mouse.owl#MA_0001854> .
+
+<http://human.owl#NCI_C49304> owl:equivalentClass <http://mouse.owl#MA_0001857> .
+
+<http://human.owl#NCI_C49307> owl:equivalentClass <http://mouse.owl#MA_0001860> .
+
+<http://human.owl#NCI_C49308> owl:equivalentClass <http://mouse.owl#MA_0001224> .
+
+<http://human.owl#NCI_C49309> owl:equivalentClass <http://mouse.owl#MA_0001686> .
+
+<http://human.owl#NCI_C49313> owl:equivalentClass <http://mouse.owl#MA_0001730> .
+
+<http://human.owl#NCI_C49317> owl:equivalentClass <http://mouse.owl#MA_0000712> .
+
+<http://human.owl#NCI_C49319> owl:equivalentClass <http://mouse.owl#MA_0000716> .
+
+<http://human.owl#NCI_C49320> owl:equivalentClass <http://mouse.owl#MA_0000714> .
+
+<http://human.owl#NCI_C49329> owl:equivalentClass <http://mouse.owl#MA_0000703> .
+
+<http://human.owl#NCI_C49477> owl:equivalentClass <http://mouse.owl#MA_0000290> .
+
+<http://human.owl#NCI_C49571> owl:equivalentClass <http://mouse.owl#MA_0000110> .
+
+<http://human.owl#NCI_C49593> owl:equivalentClass <http://mouse.owl#MA_0001883> .
+
+<http://human.owl#NCI_C49594> owl:equivalentClass <http://mouse.owl#MA_0000286> .
+
+<http://human.owl#NCI_C49596> owl:equivalentClass <http://mouse.owl#MA_0000752> .
+
+<http://human.owl#NCI_C52552> owl:equivalentClass <http://mouse.owl#MA_0002526> .
+
+<http://human.owl#NCI_C52554> owl:equivalentClass <http://mouse.owl#MA_0002524> .
+
+<http://human.owl#NCI_C52555> owl:equivalentClass <http://mouse.owl#MA_0002514> .
+
+<http://human.owl#NCI_C52557> owl:equivalentClass <http://mouse.owl#MA_0000226>,
+        <http://mouse.owl#MA_0002469> .
+
+<http://human.owl#NCI_C52558> owl:equivalentClass <http://mouse.owl#MA_0002470> .
+
+<http://human.owl#NCI_C52559> owl:equivalentClass <http://mouse.owl#MA_0002464> .
+
+<http://human.owl#NCI_C52560> owl:equivalentClass <http://mouse.owl#MA_0002309> .
+
+<http://human.owl#NCI_C52561> owl:equivalentClass <http://mouse.owl#MA_0002401> .
+
+<http://human.owl#NCI_C52692> owl:equivalentClass <http://mouse.owl#MA_0002191> .
+
+<http://human.owl#NCI_C52700> owl:equivalentClass <http://mouse.owl#MA_0002242> .
+
+<http://human.owl#NCI_C52709> owl:equivalentClass <http://mouse.owl#MA_0001144> .
+
+<http://human.owl#NCI_C52710> owl:equivalentClass <http://mouse.owl#MA_0000968> .
+
+<http://human.owl#NCI_C52711> owl:equivalentClass <http://mouse.owl#MA_0000847> .
+
+<http://human.owl#NCI_C52712> owl:equivalentClass <http://mouse.owl#MA_0000942> .
+
+<http://human.owl#NCI_C52713> owl:equivalentClass <http://mouse.owl#MA_0000904> .
+
+<http://human.owl#NCI_C52716> owl:equivalentClass <http://mouse.owl#MA_0001035> .
+
+<http://human.owl#NCI_C52717> owl:equivalentClass <http://mouse.owl#MA_0000180> .
+
+<http://human.owl#NCI_C52724> owl:equivalentClass <http://mouse.owl#MA_0001258> .
+
+<http://human.owl#NCI_C52730> owl:equivalentClass <http://mouse.owl#MA_0001332> .
+
+<http://human.owl#NCI_C52731> owl:equivalentClass <http://mouse.owl#MA_0000181> .
+
+<http://human.owl#NCI_C52733> owl:equivalentClass <http://mouse.owl#MA_0000892> .
+
+<http://human.owl#NCI_C52736> owl:equivalentClass <http://mouse.owl#MA_0002057> .
+
+<http://human.owl#NCI_C52737> owl:equivalentClass <http://mouse.owl#MA_0002056> .
+
+<http://human.owl#NCI_C52742> owl:equivalentClass <http://mouse.owl#MA_0002015> .
+
+<http://human.owl#NCI_C52799> owl:equivalentClass <http://mouse.owl#MA_0001351> .
+
+<http://human.owl#NCI_C52800> owl:equivalentClass <http://mouse.owl#MA_0001274> .
+
+<http://human.owl#NCI_C52802> owl:equivalentClass <http://mouse.owl#MA_0001272> .
+
+<http://human.owl#NCI_C52805> owl:equivalentClass <http://mouse.owl#MA_0001181> .
+
+<http://human.owl#NCI_C52829> owl:equivalentClass <http://mouse.owl#MA_0001159> .
+
+<http://human.owl#NCI_C52845> owl:equivalentClass <http://mouse.owl#MA_0001933> .
+
+<http://human.owl#NCI_C52848> owl:equivalentClass <http://mouse.owl#MA_0001913> .
+
+<http://human.owl#NCI_C52849> owl:equivalentClass <http://mouse.owl#MA_0001918> .
+
+<http://human.owl#NCI_C52850> owl:equivalentClass <http://mouse.owl#MA_0001936> .
+
+<http://human.owl#NCI_C52851> owl:equivalentClass <http://mouse.owl#MA_0001938> .
+
+<http://human.owl#NCI_C52855> owl:equivalentClass <http://mouse.owl#MA_0001949> .
+
+<http://human.owl#NCI_C52857> owl:equivalentClass <http://mouse.owl#MA_0001962> .
+
+<http://human.owl#NCI_C52859> owl:equivalentClass <http://mouse.owl#MA_0001976> .
+
+<http://human.owl#NCI_C52860> owl:equivalentClass <http://mouse.owl#MA_0001948> .
+
+<http://human.owl#NCI_C52861> owl:equivalentClass <http://mouse.owl#MA_0001978> .
+
+<http://human.owl#NCI_C52886> owl:equivalentClass <http://mouse.owl#MA_0001254> .
+
+<http://human.owl#NCI_C52891> owl:equivalentClass <http://mouse.owl#MA_0002273> .
+
+<http://human.owl#NCI_C52892> owl:equivalentClass <http://mouse.owl#MA_0002274> .
+
+<http://human.owl#NCI_C52893> owl:equivalentClass <http://mouse.owl#MA_0002275> .
+
+<http://human.owl#NCI_C52895> owl:equivalentClass <http://mouse.owl#MA_0002276> .
+
+<http://human.owl#NCI_C52898> owl:equivalentClass <http://mouse.owl#MA_0002281> .
+
+<http://human.owl#NCI_C52901> owl:equivalentClass <http://mouse.owl#MA_0002285> .
+
+<http://human.owl#NCI_C52916> owl:equivalentClass <http://mouse.owl#MA_0002293> .
+
+<http://human.owl#NCI_C52917> owl:equivalentClass <http://mouse.owl#MA_0002294> .
+
+<http://human.owl#NCI_C52918> owl:equivalentClass <http://mouse.owl#MA_0002295> .
+
+<http://human.owl#NCI_C52923> owl:equivalentClass <http://mouse.owl#MA_0002300> .
+
+<http://human.owl#NCI_C52928> owl:equivalentClass <http://mouse.owl#MA_0002307> .
+
+<http://human.owl#NCI_C52930> owl:equivalentClass <http://mouse.owl#MA_0002308> .
+
+<http://human.owl#NCI_C52935> owl:equivalentClass <http://mouse.owl#MA_0002311> .
+
+<http://human.owl#NCI_C52940> owl:equivalentClass <http://mouse.owl#MA_0001977> .
+
+<http://human.owl#NCI_C52944> owl:equivalentClass <http://mouse.owl#MA_0002322> .
+
+<http://human.owl#NCI_C52946> owl:equivalentClass <http://mouse.owl#MA_0002330> .
+
+<http://human.owl#NCI_C52948> owl:equivalentClass <http://mouse.owl#MA_0001988> .
+
+<http://human.owl#NCI_C52950> owl:equivalentClass <http://mouse.owl#MA_0002334> .
+
+<http://human.owl#NCI_C52954> owl:equivalentClass <http://mouse.owl#MA_0002338> .
+
+<http://human.owl#NCI_C52962> owl:equivalentClass <http://mouse.owl#MA_0002344> .
+
+<http://human.owl#NCI_C52971> owl:equivalentClass <http://mouse.owl#MA_0002344>,
+        <http://mouse.owl#MA_0002348> .
+
+<http://human.owl#NCI_C52972> owl:equivalentClass <http://mouse.owl#MA_0002349> .
+
+<http://human.owl#NCI_C52975> owl:equivalentClass <http://mouse.owl#MA_0002003> .
+
+<http://human.owl#NCI_C52976> owl:equivalentClass <http://mouse.owl#MA_0002352> .
+
+<http://human.owl#NCI_C52978> owl:equivalentClass <http://mouse.owl#MA_0002353> .
+
+<http://human.owl#NCI_C52985> owl:equivalentClass <http://mouse.owl#MA_0002369> .
+
+<http://human.owl#NCI_C52986> owl:equivalentClass <http://mouse.owl#MA_0002370> .
+
+<http://human.owl#NCI_C52987> owl:equivalentClass <http://mouse.owl#MA_0002371> .
+
+<http://human.owl#NCI_C52989> owl:equivalentClass <http://mouse.owl#MA_0002372> .
+
+<http://human.owl#NCI_C52991> owl:equivalentClass <http://mouse.owl#MA_0002373> .
+
+<http://human.owl#NCI_C52992> owl:equivalentClass <http://mouse.owl#MA_0002013> .
+
+<http://human.owl#NCI_C52994> owl:equivalentClass <http://mouse.owl#MA_0002017> .
+
+<http://human.owl#NCI_C53000> owl:equivalentClass <http://mouse.owl#MA_0002048> .
+
+<http://human.owl#NCI_C53002> owl:equivalentClass <http://mouse.owl#MA_0002049> .
+
+<http://human.owl#NCI_C53005> owl:equivalentClass <http://mouse.owl#MA_0002052> .
+
+<http://human.owl#NCI_C53006> owl:equivalentClass <http://mouse.owl#MA_0002374> .
+
+<http://human.owl#NCI_C53007> owl:equivalentClass <http://mouse.owl#MA_0002376> .
+
+<http://human.owl#NCI_C53012> owl:equivalentClass <http://mouse.owl#MA_0002377> .
+
+<http://human.owl#NCI_C53014> owl:equivalentClass <http://mouse.owl#MA_0002378> .
+
+<http://human.owl#NCI_C53016> owl:equivalentClass <http://mouse.owl#MA_0002380> .
+
+<http://human.owl#NCI_C53018> owl:equivalentClass <http://mouse.owl#MA_0002065> .
+
+<http://human.owl#NCI_C53032> owl:equivalentClass <http://mouse.owl#MA_0002093> .
+
+<http://human.owl#NCI_C53038> owl:equivalentClass <http://mouse.owl#MA_0002381> .
+
+<http://human.owl#NCI_C53044> owl:equivalentClass <http://mouse.owl#MA_0002383>,
+        <http://mouse.owl#MA_0002386> .
+
+<http://human.owl#NCI_C53045> owl:equivalentClass <http://mouse.owl#MA_0002114> .
+
+<http://human.owl#NCI_C53051> owl:equivalentClass <http://mouse.owl#MA_0002167> .
+
+<http://human.owl#NCI_C53055> owl:equivalentClass <http://mouse.owl#MA_0002177> .
+
+<http://human.owl#NCI_C53057> owl:equivalentClass <http://mouse.owl#MA_0002185> .
+
+<http://human.owl#NCI_C53059> owl:equivalentClass <http://mouse.owl#MA_0002189> .
+
+<http://human.owl#NCI_C53060> owl:equivalentClass <http://mouse.owl#MA_0002190> .
+
+<http://human.owl#NCI_C53061> owl:equivalentClass <http://mouse.owl#MA_0002187> .
+
+<http://human.owl#NCI_C53069> owl:equivalentClass <http://mouse.owl#MA_0002385> .
+
+<http://human.owl#NCI_C53070> owl:equivalentClass <http://mouse.owl#MA_0002383>,
+        <http://mouse.owl#MA_0002386> .
+
+<http://human.owl#NCI_C53071> owl:equivalentClass <http://mouse.owl#MA_0002317>,
+        <http://mouse.owl#MA_0002387> .
+
+<http://human.owl#NCI_C53073> owl:equivalentClass <http://mouse.owl#MA_0002402> .
+
+<http://human.owl#NCI_C53075> owl:equivalentClass <http://mouse.owl#MA_0002424> .
+
+<http://human.owl#NCI_C53078> owl:equivalentClass <http://mouse.owl#MA_0002394> .
+
+<http://human.owl#NCI_C53129> owl:equivalentClass <http://mouse.owl#MA_0002229> .
+
+<http://human.owl#NCI_C53149> owl:equivalentClass <http://mouse.owl#MA_0002271> .
+
+<http://human.owl#NCI_C53150> owl:equivalentClass <http://mouse.owl#MA_0002272> .
+
+<http://human.owl#NCI_C53151> owl:equivalentClass <http://mouse.owl#MA_0002282> .
+
+<http://human.owl#NCI_C53152> owl:equivalentClass <http://mouse.owl#MA_0002287> .
+
+<http://human.owl#NCI_C53166> owl:equivalentClass <http://mouse.owl#MA_0002336> .
+
+<http://human.owl#NCI_C53167> owl:equivalentClass <http://mouse.owl#MA_0002337> .
+
+<http://human.owl#NCI_C53169> owl:equivalentClass <http://mouse.owl#MA_0002339> .
+
+<http://human.owl#NCI_C53171> owl:equivalentClass <http://mouse.owl#MA_0002356> .
+
+<http://human.owl#NCI_C53176> owl:equivalentClass <http://mouse.owl#MA_0002375> .
+
+<http://human.owl#NCI_C53177> owl:equivalentClass <http://mouse.owl#MA_0002382> .
+
+<http://human.owl#NCI_C53178> owl:equivalentClass <http://mouse.owl#MA_0002393> .
+
+<http://human.owl#NCI_C53179> owl:equivalentClass <http://mouse.owl#MA_0002396> .
+
+<http://human.owl#NCI_C53180> owl:equivalentClass <http://mouse.owl#MA_0002397> .
+
+<http://human.owl#NCI_C53182> owl:equivalentClass <http://mouse.owl#MA_0002404> .
+
+<http://human.owl#UNDEFINED_part_of> owl:equivalentProperty <http://mouse.owl#UNDEFINED_part_of> .
+
+<http://www.geneontology.org/formats/oboInOwl#DbXref> owl:equivalentClass <http://www.geneontology.org/formats/oboInOwl#DbXref> .
+
+<http://www.geneontology.org/formats/oboInOwl#ObsoleteClass> owl:equivalentClass <http://www.geneontology.org/formats/oboInOwl#ObsoleteClass> .
+
+<http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty> owl:equivalentProperty <http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty> .
+
+<http://www.geneontology.org/formats/oboInOwl#Subset> owl:equivalentClass <http://www.geneontology.org/formats/oboInOwl#Subset> .
+
+<http://www.geneontology.org/formats/oboInOwl#Synonym> owl:equivalentClass <http://www.geneontology.org/formats/oboInOwl#Synonym> .
+
+<http://www.geneontology.org/formats/oboInOwl#SynonymType> owl:equivalentClass <http://www.geneontology.org/formats/oboInOwl#SynonymType> .
+
+<http://www.geneontology.org/formats/oboInOwl#hasDate> owl:equivalentProperty <http://www.geneontology.org/formats/oboInOwl#hasDate> .
+
+<http://www.geneontology.org/formats/oboInOwl#hasDefaultNamespace> owl:equivalentProperty <http://www.geneontology.org/formats/oboInOwl#hasDefaultNamespace> .
+
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> owl:equivalentProperty <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> .
+
+<http://www.geneontology.org/formats/oboInOwl#savedBy> owl:equivalentProperty <http://www.geneontology.org/formats/oboInOwl#savedBy> .
+
+rdfs:label owl:equivalentProperty rdfs:label .
+
+<http://www.geneontology.org/formats/oboInOwl#Definition> owl:equivalentClass <http://www.geneontology.org/formats/oboInOwl#Definition> .
+
